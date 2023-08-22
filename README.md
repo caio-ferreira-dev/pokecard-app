@@ -1,0 +1,1 @@
+This is an app that uses the Mandarin API for showing pokemon infos. 
